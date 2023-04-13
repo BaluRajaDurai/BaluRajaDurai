@@ -24,8 +24,6 @@ A passionate self-taught full stack web developer from India. My passion for sof
 <a href="https://linkedin.com/in/balu-raja-durai-s-b9b6b9202" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="balu-raja-durai-s-b9b6b9202" height="30" width="40" /></a>
 </p>
 <h3 align="left">Languages and Tools:</h3>
-<h3 align="left">Languages and Tools:</h3>
-<h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,ts,react,redux,nodejs,graphql,prisma,sequelize,redis,mysql,mongodb,postman,git,vscode" />
