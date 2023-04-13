@@ -7,7 +7,9 @@ A passionate self-taught full stack web developer from India. My passion for sof
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=balurajadurai&label=Profile%20views&color=0e75b6&style=flat" alt="balurajadurai" /> </p>
 
-- 🔭 I’m currently working as **Full Stack Developer**
+- 🖥 I’m currently working as **Full Stack Developer**
+
+- 🎓 Bachelor of Engineering - BE, Computer Science
 
 - 🌱 I’m currently learning **FrontEnd, BackEnd & DevOps Frameworks**
 
