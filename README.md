@@ -9,7 +9,7 @@ A passionate self-taught full stack web developer from India. My passion for sof
 
 - 🖥 I’m currently working as **Full Stack Developer**
 
-- 🎓 I have completed my B.E, Computer Science
+- 🎓 Bachelor of Engineering-B.E, Computer Science
 
 - 🌱 I’m currently learning **FrontEnd, BackEnd & DevOps Frameworks**
 
